@@ -126,3 +126,15 @@ Alcmena,genera_a,Heracles
 Zeus,genera_a,Heracles
 Helena,ama_a,Paris
 Paris,ama_a,Helena
+Leon_de_Nemea,muerte_por,Heracles
+Hidra,muerte_por,Heracles
+Cierva_de_Cerinea,muerte_por,Heracles
+Jabali_de_Erimanto,muerte_por,Heracles
+Toro_de_Creta,muerte_por,Heracles
+Cerbero,muerte_por,Heracles
+Heracles,mata_a,Leon_de_Nemea
+Heracles,mata_a,Hidra
+Heracles,mata_a,Cierva_de_Cerinea
+Heracles,mata_a,Jabali_de_Erimanto
+Heracles,mata_a,Toro_de_Creta
+Heracles,mata_a,Cerbero
